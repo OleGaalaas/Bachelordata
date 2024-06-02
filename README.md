@@ -1,8 +1,8 @@
 # Bachelordata
-Her finner man datasett som ble skrapet i STV3090. Datasettene kunne ikke legges til Appendiks fordi de inneholder hele tekster slik at det ville dekket over 4000 sider. 
+Her finner man datasett som ble skrapet i STV3090. Datasettene kunne ikke legges til Appendiks fordi de inneholder hele tekster slik at det ville dekket over 4000 sider. Her kan man også finne skriptet til oppgaven
 
 Med tanke på anonymitet: 
-Jeg sendte mail til emneansvarlig Øiving Bratberg og spurt om det det gikk greit å legge det på Github
+Jeg sendte mail til emneansvarlig Øivind Bratberg og spurte om det det gikk greit å legge det på Github
 
 Mail sendt til Øivind Bratberg: 
 
@@ -10,4 +10,5 @@ Mail sendt til Øivind Bratberg:
   I såfall vil det være litt problemer med anonymitet (GitHub brukeren min er det samme som mitt navn)."
 
 Svar fra Øivind Bratberg: 
+
   "Det er utmerket om du har anledning til å laste opp i GitHub, det vil styrke etterprøvbarheten og dokumentere hva du har av opparbeidet empiri. Kjempefint! Anonymiseringen er av mindre betydning her - det vesentlige at sensor om ønskelig kan få tilgang til det."
